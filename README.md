@@ -14,9 +14,14 @@ The FLIR Grasshopper3 USB3 camera was used with a Computer M1214-MP2 lens, and t
 </div>
 
 
-# Projector Camera Calibration
+# Camera Projector Calibration
+### Camera View and Projector View
 
-<figure class="half">  <a href="link"><img src="https://github.com/kimthyung/3D_Reconstruction_with_Fringe_pattern/assets/98934172/fe6f994c-2622-4055-9e5e-7850830d9310" align="center" width="48%" ></a>  <a href="link"><img src="https://github.com/kimthyung/3D_Reconstruction_with_Fringe_pattern/assets/98934172/eede1ee1-a62c-48f7-a5dd-66f80abaab5c" align="center" width="48%" height="60%"></a>  <figcaption></figcaption></figure>
+<div align="center">
+  
+  <img src="https://github.com/kimthyung/3D_Reconstruction_with_Fringe_pattern/assets/98934172/e376bd7b-2408-4502-9ba3-c793d5f45db7" >
+</div>
+
 
 
 # Pattern Generation
