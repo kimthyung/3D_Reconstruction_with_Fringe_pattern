@@ -4,6 +4,20 @@
 
 Fringe projection profilometry has been thoroughly investigated in the field of 3D reconstruction. To increase the accuracy of fringe projection profilometry using lots of phase shifted, short period, single fringe pattern is recommended. However I tried to reconstruct an object with only seven pictures.
 
+# Setup
+The FLIR Grasshopper3 USB3 camera was used with a Computer M1214-MP2 lens, and the Texas Instrument LightCrafter 4500 was utilized as the projector. To capture a large number of photos, I utilize a synchronization circuit to coordinate the camera and projector, forming a trigger system. This enables a swift and straightforward process for capturing photos after changing the pattern.
+
+
+<div align="center">
+  <img src="https://github.com/kimthyung/3D_Reconstruction_with_Fringe_pattern/assets/98934172/194c6e10-4268-460c-9d09-62d7eb2fce51" >
+  <img src="https://github.com/kimthyung/3D_Reconstruction_with_Fringe_pattern/assets/98934172/ee555e5e-aff9-47cc-92c0-0a5c233bbc42" >
+</div>
+
+
+# Projector Camera Calibration
+
+<figure class="half">  <a href="link"><img src="https://github.com/kimthyung/3D_Reconstruction_with_Fringe_pattern/assets/98934172/fe6f994c-2622-4055-9e5e-7850830d9310" align="center" width="48%" ></a>  <a href="link"><img src="https://github.com/kimthyung/3D_Reconstruction_with_Fringe_pattern/assets/98934172/eede1ee1-a62c-48f7-a5dd-66f80abaab5c" align="center" width="48%" height="60%"></a>  <figcaption></figcaption></figure>
+
 
 # Pattern Generation
 
@@ -30,8 +44,6 @@ Fringe projection profilometry has been thoroughly investigated in the field of 
 # Pattern Projection
 
 ### Sinusoidal Patterns
-
-
 
 
 <p align="center">  <img src="https://github.com/kimthyung/3D_Reconstruction_with_Fringe_pattern/assets/98934172/4ff6880b-eee6-4783-8cdc-d0065b8d4a2d" align="center" width="32%">  <img src="https://github.com/kimthyung/3D_Reconstruction_with_Fringe_pattern/assets/98934172/4ff6880b-eee6-4783-8cdc-d0065b8d4a2d" align="center" width="32%">  <img src="https://github.com/kimthyung/3D_Reconstruction_with_Fringe_pattern/assets/98934172/c25142c5-70bf-4809-89bd-1aa9c9689b4e" align="center" width="32%">  <figcaption align="center">
