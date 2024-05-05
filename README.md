@@ -70,4 +70,4 @@ The FLIR Grasshopper3 USB3 camera was used with a Computer M1214-MP2 lens, and t
 <p align="center">  <img src="https://github.com/kimthyung/3D_Reconstruction_with_Fringe_pattern/assets/98934172/7c152dca-06ae-4e17-8e6b-4d91ca6d9800" align="center" width="32%">  <img src="https://github.com/kimthyung/3D_Reconstruction_with_Fringe_pattern/assets/98934172/2905375c-b86a-47f7-9845-2326f946a601" align="center" width="32%">  <img src="https://github.com/kimthyung/3D_Reconstruction_with_Fringe_pattern/assets/98934172/5053a033-729a-4738-9523-446bcdd26410" align="center" width="32%">  <figcaption align="center">
 
 # Review
-I encountered issues with 3D reconstruction due to the limited dataset.
+I encountered issues due to the limited image
